@@ -1,0 +1,13 @@
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\bin\Debug\Crud-Project.exe.config
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\bin\Debug\Crud-Project.exe
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\bin\Debug\Crud-Project.pdb
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud-Project.csproj.AssemblyReference.cache
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud_Project.Properties.Resources.resources
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud-Project.csproj.GenerateResource.cache
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud-Project.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud-Project.exe
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud-Project.pdb
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud_Project.createPanel.resources
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud_Project.CRUD.resources
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud_Project.updatePanel.resources
+C:\Users\Carlos Alejandro\source\repos\Crud-Project\Crud-Project\obj\Debug\Crud_Project.ReadPanel.resources
